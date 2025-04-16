@@ -66,4 +66,5 @@ Based on the current implementation and challenges faced, the following steps ar
 
 For any querries reach out to:
 **-Name-** Krish Garg
+<br>
 **-Email-** krishgarg665@gmail.com
